@@ -4,6 +4,10 @@
 
 A comprehensive **Student Management System** built using **Django**, designed to manage student information, including enrollment, attendance, grades, and other administrative functionalities. This application is ideal for schools or educational institutions looking for a streamlined solution to manage student data.
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  ![Build](https://img.shields.io/badge/Build-Passing-success)  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-4.x-darkgreen?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-DB-lightgrey?logo=sqlite&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple?logo=bootstrap&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  ![Git](https://img.shields.io/badge/Git-FCC624?logo=git&logoColor=white&color=E44C30)  ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&logoColor=white)  ![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-green?logo=gunicorn&logoColor=white)  ![Nginx](https://img.shields.io/badge/Nginx-ReverseProxy-darkgreen?logo=nginx&logoColor=white) 
+
 ## **Table of Contents**
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -104,11 +108,6 @@ If you've Dockerized the project, you can run it as follows:
 docker-compose up --build
 ```
 This will build the Docker image and run the Django application and the PostgreSQL service.
-
-## **Video Links**
-Watch the videos to learn in proper way.
-https://youtu.be/mM6vMMLYJHY
-
 
 ## **Testing**
 You can run the unit tests with Django's built-in testing framework:
